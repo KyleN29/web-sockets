@@ -1,0 +1,4 @@
+
+GET http://localhost:5025/simulate/simA/state
+
+POST http://localhost:5025/simulate/step

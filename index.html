@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather WebSocket</title>
+</head>
+<button id="increaseBtn">Increase Money</button>
+<body>
+    <h1>Weather Updates</h1>
+    <ul id="log"></ul>
+
+    <script>
+        const log = document.getElementById("log");
+        const socket = new WebSocket("ws://localhost:5025/ws");
+
+        socket.onmessage = (event) => {
+            const data = JSON.parse(event.data);
+            console.log("Money:", data.money);
+            console.log("Temp:", data.temperature);
+        };
+
+        socket.onopen = () => {
+            console.log("Connected to server");
+        };
+
+        socket.onclose = () => {
+            console.log("Disconnected from server");
+        };
+    </script>
+</body>
+</html>
