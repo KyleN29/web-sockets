@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\lightningcreep4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lightningcreep4\\AppData\\Roaming\\NuGet\\NuGet.Config",

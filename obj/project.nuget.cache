@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Y/32jGszessXi39/uuM2gOemLJKQH+NmcLhEcfL9QeY0yqG7N50eRjaEtm3E+Il2IFN4eI7xlmD8s09kVMcOQ==",
+  "dgSpecHash": "fvXlhhJx/Z0LhaYp52IQ2UkQPtVjVpQOY56OqR9wW403msqcCOJ00OXqdNycutImXewH5DYbLKAD/xsxQd3mzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\WebApplication1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
