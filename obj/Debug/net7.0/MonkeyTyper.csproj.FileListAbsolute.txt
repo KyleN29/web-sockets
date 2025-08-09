@@ -25,3 +25,39 @@ c:\Users\lightningcreep4\coding\dotnet stuff\MonkeyTyper\obj\Debug\net7.0\Monkey
 C:\Users\lightningcreep4\coding\dotnet stuff\MonkeyTyper\obj\Debug\net7.0\MonkeyTyper.genruntimeconfig.cache
 C:\Users\lightningcreep4\coding\dotnet stuff\MonkeyTyper\obj\Debug\net7.0\ref\MonkeyTyper.dll
 c:\Users\lightningcreep4\coding\dotnet stuff\MonkeyTyper\bin\Debug\net7.0\MonkeyTyper.staticwebassets.runtime.json
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\appsettings.json
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\MonkeyTyper.staticwebassets.runtime.json
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\MonkeyTyper.exe
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\words.txt
+C:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\MonkeyTyper.deps.json
+C:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\MonkeyTyper.runtimeconfig.json
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\MonkeyTyper.dll
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\MonkeyTyper.pdb
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\Npgsql.dll
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\System.Text.Json.dll
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\MonkeyTyper.csproj.AssemblyReference.cache
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\MonkeyTyper.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\MonkeyTyper.AssemblyInfoInputs.cache
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\MonkeyTyper.AssemblyInfo.cs
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\MonkeyTyper.csproj.CoreCompileInputs.cache
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\MonkeyTyper.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\staticwebassets\msbuild.MonkeyTyper.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\staticwebassets\msbuild.build.MonkeyTyper.props
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MonkeyTyper.props
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MonkeyTyper.props
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\scopedcss\bundle\MonkeyTyper.styles.css
+C:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\MonkeyTyper.csproj.CopyComplete
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\MonkeyTyper.dll
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\refint\MonkeyTyper.dll
+c:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\MonkeyTyper.pdb
+C:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\MonkeyTyper.genruntimeconfig.cache
+C:\Users\lightningcreep4\Documents\GitHub\web-sockets\obj\Debug\net7.0\ref\MonkeyTyper.dll

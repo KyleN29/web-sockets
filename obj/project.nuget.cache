@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "oH4OdfLPLobSklGBA1OUBmW9YGH6muNx1DDX/w3C+uhj3KbAx0dXaDQ4NJ7ww8AZxClBBMHN+RNnD5rr+Jo4TA==",
+  "dgSpecHash": "Qq1EHQoeyoKinySDnNG6xT7nBwoAb4TevZHKTDTc1FNLcY/q04IPscOsdrRemiEd1YPu0yGsmkzK4hyGPE0bkQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\MonkeyTyper.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lightningcreep4\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\lightningcreep4\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\lightningcreep4\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
+    "C:\\Users\\lightningcreep4\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\lightningcreep4\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\lightningcreep4\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\lightningcreep4\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

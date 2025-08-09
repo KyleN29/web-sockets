@@ -14,7 +14,8 @@
       "launchBrowser": true,
       "applicationUrl": "http://localhost:5097",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DATABASE_URL": "postgresql://monkey_typer_user:2r0QZLq1s7iqMWpLDIXjqpTjzczqJZaL@dpg-d2bec495pdvs73cm88dg-a.oregon-postgres.render.com/monkey_typer"
       }
     },
     "https": {

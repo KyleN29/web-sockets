@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Core Launch (web)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/bin/Debug/net7.0/MonkeyTyper.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "serverReadyAction": {
+        "action": "openExternally",
+        "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+      },
+      "env": {
+        "DATABASE_URL": "postgresql://monkey_typer_user:2r0QZLq1s7iqMWpLDIXjqpTjzczqJZaL@dpg-d2bec495pdvs73cm88dg-a.oregon-postgres.render.com/monkey_typer"
+      }
+    }
+  ]
+}

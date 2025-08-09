@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZHwYUDVE7nJHnmEx3OYCrrRjU8cbDaA2tnVT8JFWQzY=",
+  "Hash": "vhpsu5dmM+fHpeHnRNEvm46PeDa0Ky8deUTa0li1ctw=",
   "Source": "MonkeyTyper",
   "BasePath": "_content/MonkeyTyper",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MonkeyTyper\\wwwroot",
       "Source": "MonkeyTyper",
-      "ContentRoot": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\wwwroot\\",
       "BasePath": "_content/MonkeyTyper",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\wwwroot\\assets\\index-BreAywz5.css",
+      "Identity": "c:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\wwwroot\\assets\\index-BreAywz5.css",
       "SourceId": "MonkeyTyper",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\wwwroot\\",
       "BasePath": "_content/MonkeyTyper",
       "RelativePath": "assets/index-BreAywz5.css",
       "AssetKind": "All",
@@ -34,12 +34,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-BreAywz5.css"
     },
     {
-      "Identity": "c:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\wwwroot\\assets\\index-DmRjS_s3.js",
+      "Identity": "c:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\wwwroot\\assets\\index-C4mgJEey.js",
       "SourceId": "MonkeyTyper",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\wwwroot\\",
       "BasePath": "_content/MonkeyTyper",
-      "RelativePath": "assets/index-DmRjS_s3.js",
+      "RelativePath": "assets/index-C4mgJEey.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-DmRjS_s3.js"
+      "OriginalItemSpec": "wwwroot\\assets\\index-C4mgJEey.js"
     },
     {
-      "Identity": "c:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\wwwroot\\assets\\monkey-Bl71Eujh.gif",
+      "Identity": "c:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\wwwroot\\assets\\monkey-Bl71Eujh.gif",
       "SourceId": "MonkeyTyper",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\wwwroot\\",
       "BasePath": "_content/MonkeyTyper",
       "RelativePath": "assets/monkey-Bl71Eujh.gif",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\monkey-Bl71Eujh.gif"
     },
     {
-      "Identity": "c:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\wwwroot\\assets\\monkeyimg-DaaYA2nF.gif",
+      "Identity": "c:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\wwwroot\\assets\\monkeyimg-DaaYA2nF.gif",
       "SourceId": "MonkeyTyper",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\wwwroot\\",
       "BasePath": "_content/MonkeyTyper",
       "RelativePath": "assets/monkeyimg-DaaYA2nF.gif",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\monkeyimg-DaaYA2nF.gif"
     },
     {
-      "Identity": "c:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\wwwroot\\index.html",
+      "Identity": "c:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\wwwroot\\index.html",
       "SourceId": "MonkeyTyper",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\wwwroot\\",
       "BasePath": "_content/MonkeyTyper",
       "RelativePath": "index.html",
       "AssetKind": "All",
