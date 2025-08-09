@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\MonkeyTyper.csproj",
+      "projectUniqueName": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\MonkeyTyper.csproj",
       "projectName": "MonkeyTyper",
-      "projectPath": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\MonkeyTyper.csproj",
+      "projectPath": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\MonkeyTyper.csproj",
       "packagesPath": "C:\\Users\\lightningcreep4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lightningcreep4\\coding\\dotnet stuff\\MonkeyTyper\\obj\\",
+      "outputPath": "C:\\Users\\lightningcreep4\\Documents\\GitHub\\web-sockets\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lightningcreep4\\AppData\\Roaming\\NuGet\\NuGet.Config",
